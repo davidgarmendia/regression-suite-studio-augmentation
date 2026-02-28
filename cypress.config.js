@@ -3,7 +3,7 @@ const { defineConfig } = require("cypress");
 module.exports = defineConfig({
   e2e: {
     // Keeping the professional standard from your first repo
-    baseUrl: 'https://your-target-app.com', 
+    baseUrl: 'https://www.saucedemo.com/',
     viewportWidth: 1280,
     viewportHeight: 720,
     
